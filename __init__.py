@@ -1,0 +1,1 @@
+__all__ = ['db.csv', 'db.json','db.pickle', 'res.json', 'res.pickle','Task1.py', 'Task2.py', 'Task3.py', 'Task4.py', '_finew_file001.txt', 'Task5.py']
